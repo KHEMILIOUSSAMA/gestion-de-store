@@ -1,0 +1,36 @@
+
+   .titlecopiright {
+    border:3px solid Tomato;
+    width: 300px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: black ;
+    color: white;
+   }
+   #principaltitle {
+    padding: 10px;
+    background: #46a049;
+    color : white;
+
+   }
+   label {
+    color : red;
+   }
+   input{
+    border: 1px solid blue;
+    color: red;
+   }
+   .btnValide{
+    color:red;
+    background: yellow;
+    padding: 15px;
+    cursor: pointer;
+   }
+   .btnValide:hover{
+    background: blue;
+    color: red;
+   }
+
+   span.spanajout{
+    color: red;
+   }
